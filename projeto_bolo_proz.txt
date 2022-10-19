@@ -1,5 +1,5 @@
 Como preparar o bolo
-Passo 1:https://github.com/murilooliveira18/proz-portalTech/blob/main/projeto_bolo_proz.txt
+Passo 1:
 -No liquidificador acrescente os ovos, o achocolatado em pó, a manteiga, a farinha de trigo, o açúcar e o leite
 Passo 2:
 -Bata por cerca de 5 minutos
