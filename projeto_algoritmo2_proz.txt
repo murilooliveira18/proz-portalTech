@@ -1,0 +1,22 @@
+Var
+// Seção de Declarações das variáveis 
+Nome: caractere
+Endereco: caractere
+Cidade: caractere
+CPF: real
+RG: inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+Escreva ("Qual seu nome?")
+leia(Nome)
+Escreva ("Qual Endereço?")
+leia(Endereco)
+Escreva ("Qual sua Cidade?")
+leia(Cidade)
+Escreva ("Qual seu CPF?")
+leia(CPF)
+Escreva ("Qual seu RG?")
+leia(RG)
+escreva(nome + "," , " Obrigado por informar seus dados!")
+Fimalgoritmo
