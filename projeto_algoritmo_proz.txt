@@ -1,10 +1,10 @@
 
 Var 
   nome: caracter
-	cpf: inteiro
-	rg: inteiro
-	altura: real
-	endereco: caracter
+  cpf: inteiro
+  rg: inteiro
+  altura: real
+  endereco: caracter
   
 Dados 
 
