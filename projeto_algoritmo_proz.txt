@@ -1,5 +1,15 @@
-Nome = José Almeida da Silva (caractere)
-CPF = 12345678900 (inteiro)
-RG = 9517530 (inteiro)
-Altura = 1,78 (real)
-Endereço = Rua A, 380 – Centro – Recife/PE (caractere)
+
+Var 
+  nome: caracter
+	cpf: inteiro
+	rg: inteiro
+	altura: real
+	endereco: caracter
+  
+Dados 
+
+  nome -> José Almeida da Silva 
+  cpf -> 12345678900
+  RG -> 9517530
+  Altura > 1,78
+  Endereço -> Rua A, 380 – Centro – Recife/PE 
