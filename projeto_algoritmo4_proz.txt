@@ -1,0 +1,19 @@
+Var
+// Seção de Declarações das variáveis 
+FumanteOuComPet:logico
+quantidadedepessoas:inteiro
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva("É fumante ou com animal de estimação?")
+leia(FumanteOuComPet)
+se (FumanteOuComPet = verdadeiro) então
+escreva("Vá para área externa")
+senão
+escreva("Qual a quantidade de pessoas:   ")
+leia(quantidadedepessoas)
+se (quantidadedepessoas >= 5) então
+escreva("Vá para o 1º andar")
+senão("Vá para o térreo")
+fimse
+fimse
+Fimalgoritmo
