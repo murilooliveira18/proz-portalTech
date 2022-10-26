@@ -1,0 +1,34 @@
+Var
+// Seção de Declarações das variáveis 
+  notas: vetor[1..4] de real
+  maior: real
+  nomes: vetor[1..4] de caractere
+   i: inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   para i de 1 ate 4 faca
+      escreval("Cadastre a", i, "º nota:")
+      leia(notas[i])
+   fimpara
+   
+   para i de 1 ate 4 faca
+      escreval("Cadastre o", i, " nome:")
+      leia(nomes[i])
+   fimpara
+   maior := notas[1];
+
+   para i de 2 ate 4 faca
+      se notas[i] > maior entao
+         maior := notas[i]
+      fimse
+
+   fimpara
+
+   escreval("")
+   escreval("O aluno com nota mais alta é: " , nomes[i])
+   escreval("")
+   escreval("Sua nota é:", maior)
+
+
+Fimalgoritmo
