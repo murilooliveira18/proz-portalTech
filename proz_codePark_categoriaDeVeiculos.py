@@ -1,6 +1,6 @@
 quantidadeDeRodas = int(input("Digite a quantidade de rodas do veículo:"))
 pesoBruto = int(input("Digite o peso bruto do veículo:"))
-quantidadeDePessoas = int(input("Digite a quantidade de pessoas no veículo:"))
+quantidadeDePessoas = float(input("Digite a quantidade de pessoas no veículo:"))
 
 if quantidadeDeRodas >= 2 and quantidadeDeRodas <= 3:
     print("A melhor categoria de habilitação é a A")
