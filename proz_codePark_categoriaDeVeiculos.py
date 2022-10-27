@@ -1,5 +1,5 @@
 quantidadeDeRodas = int(input("Digite a quantidade de rodas do veículo:"))
-pesoBruto = float(input("Digite o peso bruto do veículo:"))
+pesoBruto = int(input("Digite o peso bruto do veículo:"))
 quantidadeDePessoas = int(input("Digite a quantidade de pessoas no veículo:"))
 
 if quantidadeDeRodas >= 2 and quantidadeDeRodas <= 3:
