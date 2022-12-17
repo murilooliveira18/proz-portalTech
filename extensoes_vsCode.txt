@@ -1,0 +1,8 @@
+Extensões Visual Studio
+-Auto Rename Tag : Quando estamos trabalhando com HTML e precisamos renomear uma Tag, basta renomear uma delas. O VS Code já faz isso para nós.
+-Color Highlight:O Color Highlight é uma ótima extensão para front-ends. Ela identifica quando você escreve o código de uma cor e a exibe no editor. Assim fica fácil de saber de qual cor se trata cada código.
+-Indent-rainbow: A extensão Indent Rainbow adiciona cores à sua indentação, a fim de facilitar a identificação dos blocos de código.
+-IntelliCode: Extensão que deixa a escrita do código mais rápida e inteligente, facilita muito a escrita de código
+-ESLint: O foco do ESLint é definir determinadas regras que devem ser seguidas de tal forma que ajudam a evitar certos problemas. Dessa maneira, podemos evitar possíveis bugs.
+-EditorConfig: O objetivo do EditorConfig é manter um padrão de formatação de arquivos entre diferentes ferramentas. Um exemplo bem simples é o que você costuma usar para identar seu código: 3 espaços, 4 espaços, tab, etc.
+-Stylelint: Além de ajudar a definir regras no CSS, também é possível definir certas regras para se seguir boas práticas. Um bom exemplo é sempre declarar uma classe primeiro e só depois as classes filhas.
