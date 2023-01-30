@@ -1,0 +1,15 @@
+1- ORACLE:
+A última versão do Oracle, chamada de 18c, foi projetada especificamente para computação em grade, tornando-a a melhor solução RDBMS (sistema gerenciador de bancos de dados relacionais). Com grandes empresas, agências governamentais e data centers usando sua arquitetura RAC, a Oracle tem um inabalável posicionamento no mercado.
+
+
+A Oracle é a solução ideal para negócios que necessitam de alta disponibilidade, segurança contra falhas nos servidores e escalabilidade. Uma vez configurada, ela pode ser facilmente ajustada para atender às demandas variáveis ​​das empresas, permitindo que os usuários adicionem mais nodes para aumentar sua capacidade. Além disso, sua infraestrutura confiável e escalável oferece a melhor solução para corporações que necessitam de operações críticas de negócios.
+
+2- SQL SERVER: 
+
+O Microsoft SQL Server é uma plataforma abrangente que fornece sofisticadas ferramentas para gerenciamento de dados, bem como integração de Business Intelligence e recursos de alta performance. Desde seu ingresso no mercado, a Microsoft investiu significativamente para competir com outras plataformas como Oracle e DB2.
+
+
+A plataforma do SQL Server é uma solução robusta e versátil para desenvolvimento, implantação e gerenciamento de soluções, tanto locais como na nuvem. Ele oferece tecnologias de memória in-memory, fluxos de informação rápidos e familiaridade com ferramentas como o Excel. Além disso, a Microsoft oferece descontos significativos para instituições educacionais, o que contribuiu para a construção de uma base sólida de usuários.
+
+
+Se a sua empresa precisa de um sistema de recuperação de dados, o SQL Server é uma excelente opção. Ele possui características de alta performance, integração fácil com ferramentas de Business Intelligence e recursos de gerenciamento de dados. Além disso, as vantagens oferecidas por descontos para instituições educacionais tornam a plataforma ainda mais atraente.
