@@ -1,0 +1,15 @@
+Atributos Simples:
+
+-ID (número inteiro, chave primária)
+-Nome (string)
+-CPF (string)
+-Data de Nascimento (data)
+
+Atributos Compostos:
+
+-Endereço (composição de atributos como rua, número, bairro, cidade e estado)
+
+Atributos Multivalorados:
+
+-Telefones (array de números de telefone)
+-E-mails (array de endereços de e-mail)
